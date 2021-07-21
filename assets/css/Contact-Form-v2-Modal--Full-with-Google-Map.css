@@ -1,0 +1,9 @@
+#contactForm .h4 {
+  font-weight: 400;
+  border-bottom: 1px solid silver;
+}
+
+.required-input {
+  color: maroon;
+}
+
